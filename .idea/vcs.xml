@@ -3,8 +3,13 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab3_regexp-MeHowBadurson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laboratorium-eda-MeHowBadurson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laboratorium-lin-model-MeHowBadurson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laboratorium-nlp-MeHowBadurson" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/laboratorium_1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/laboratorium_3/lab2_join-MeHowBadurson" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/laboratorium_4/lab3_regexp-MeHowBadurson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/naiwny-bayes-MeHowBadurson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/szeragi-czasowe-MeHowBadurson" vcs="Git" />
   </component>
 </project>
